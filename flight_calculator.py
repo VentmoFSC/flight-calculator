@@ -29,4 +29,3 @@ def flight_time_table(max_weight_grams, step_grams):
 
     #Returns the flight time table        
     return table
-
